@@ -27,17 +27,29 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoSymbol" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SearchEverywhere" />
   <action id="SendEOF" />
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
