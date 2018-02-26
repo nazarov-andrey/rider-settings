@@ -23,6 +23,7 @@
   <action id="CompareTwoFiles" />
   <action id="Debugger.MarkObject" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -63,6 +64,9 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
@@ -79,6 +83,7 @@
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta alt enter" />
