@@ -6,6 +6,7 @@
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -19,17 +20,21 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Debugger.MarkObject" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -41,6 +46,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoCustomRegion" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="GotoFile" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -58,9 +66,12 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere" />
+  <action id="SendEOF" />
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
@@ -72,4 +83,6 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
