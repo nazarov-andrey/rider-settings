@@ -70,6 +70,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="LocateInSolutionExplorer">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
