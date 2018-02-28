@@ -35,6 +35,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -73,6 +76,7 @@
   <action id="LocateInSolutionExplorer">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="NextSplitter" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
