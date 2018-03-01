@@ -87,6 +87,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestDebugContextTwAction" />
