@@ -77,6 +77,9 @@
   <action id="LocateInSolutionExplorer">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="LocateInSolutionView">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="NextSplitter" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
