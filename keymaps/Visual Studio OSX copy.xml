@@ -108,6 +108,7 @@
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere" />
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
