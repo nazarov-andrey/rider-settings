@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Debugger.MarkObject" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -74,6 +75,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IncrementalSearch" />
   <action id="LocateInSolutionExplorer">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
