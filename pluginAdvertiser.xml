@@ -542,6 +542,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gitignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Git4Idea" />
+              <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.glsl">
           <value>
             <plugin>
@@ -2069,6 +2078,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".gitmodules">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".jshintignore">
           <value>
             <plugin>
@@ -2222,6 +2240,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="exclude">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Git4Idea" />
+              <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="http-client.cookies">
           <value>
             <plugin>
@@ -2291,6 +2318,11 @@
                   <entry key="AzureFunctionsHost">
                     <value>
                       <FeaturePluginData displayName="Azure Functions host" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="CloudCodeCloudRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -2401,6 +2433,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="google-container-tools-skaffold-run-config">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Kubernetes" pluginName="Cloud Code" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
