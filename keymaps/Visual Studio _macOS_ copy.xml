@@ -6,4 +6,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SearchEverywhere" />
 </keymap>
